@@ -1,0 +1,20 @@
+:root{
+--cinza:white;
+--vermelho:white;
+--preto:white;
+}
+body{
+    background-color: var(--vermelho);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'oi', 'oi', 'oi';
+    min-height: 100vh;
+}
+
+h1{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: var(--branca);
+}
