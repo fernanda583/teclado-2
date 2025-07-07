@@ -18,3 +18,21 @@ h1{
     margin-bottom: 20px;
     color: var(--branca);
 }
+
+h2{
+    color: var(--branca);
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.teclado{
+    background: #833AB4;
+    background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    background: #5c8019;
+    background: linear-gradient(90deg,rgba(92, 128, 25, 1) 42%, rgba(237, 12, 132, 1) 89%);
+    box-shadow: 6px 8px o 6px #5c8019, 10px 10px 10px #833AB4;
+    border-radius: 30px;
+    display: black
+    gap: 10px;
+    grid-template-columns: repe
+}
