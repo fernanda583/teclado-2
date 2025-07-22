@@ -1,7 +1,8 @@
 :root{
---cinza:white;
---vermelho:white;
---preto:white;
+--cinza:purple;
+--verde:green;
+--rosa:pink;
+--laranja:orange;
 }
 body{
     background-color: var(--vermelho);
@@ -32,7 +33,7 @@ h2{
     background: linear-gradient(90deg,rgba(92, 128, 25, 1) 42%, rgba(237, 12, 132, 1) 89%);
     box-shadow: 6px 8px o 6px #5c8019, 10px 10px 10px #833AB4;
     border-radius: 30px;
-    display: black
+    display: black;
     gap: 10px;
     grid-template-columns: repe
 }
